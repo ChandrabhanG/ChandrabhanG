@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Do Something..!!
 - 🌱 I’m currently learning ...B.Tech(computer science)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...chandu888757@gmail.com
+- 📫 How to reach me   chandu888757@gmail.com
 
 <!---
 ChandrabhanG/ChandrabhanG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
