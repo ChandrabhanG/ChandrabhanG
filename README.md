@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning more about Full Stack Development.
 - 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email- chandu888757@gmail.com  ,Linkedin- @chandrabhan-gupta
+- 📫 How to reach me Email- chandu888757@gmail.com  ,Linkedin- https://www.linkedin.com/in/chandrabhan-gupta/
 
 
